@@ -1,14 +1,24 @@
 #!/bin/bash
 
-echo "Installing Kwéebecs fastfetch setup..."
+echo "Installing rice setup..."
 
-sudo pacman -S --needed fastfetch chafa
-
+# Создаём директорию для fastfetch
 mkdir -p ~/.config/fastfetch
 
+# Копируем файлы
 cp fastfetch/config.jsonc ~/.config/fastfetch/
 cp fastfetch/logo.png ~/.config/fastfetch/
 
-echo ""
-echo "Installation complete."
+# Исправляем путь к логотипу в конфиге
+sed -i 's|"source": ".*"|"source": "'"$HOME"'/.config/fastfetch/logo.png"|' ~/.config/fastfetch/config.jsonc
+
+echo "Done!"
 echo "Run: fastfetch"
+
+# Проверяем, установлен ли fastfetch
+if ! command -v fastfetch &> /dev/null; then
+    echo ""
+    echo "⚠️  fastfetch not found! Install it:"
+    echo "  • Arch: sudo pacman -S fastfetch"
+    echo "  • Ubuntu/Debian: sudo apt install fastfetch"
+    echo "  • Fedora: sudo dnf install fastfetch"
