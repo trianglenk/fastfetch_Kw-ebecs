@@ -23,7 +23,7 @@ cat > README.md << 'EOF'
 ![Логотип проекта](fastfetch/logo.png)
 
 *Кастомный логотип для fastfetch*
-![fastfetch](fastfetch_Kw_ebecs.png)
+![fastfetch](fastfetch_Kw-ebecs.png)
 ## ✨ Особенности
 
 - 🚀 Быстрый вывод информации о системе
