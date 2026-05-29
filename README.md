@@ -19,10 +19,9 @@ cat > README.md << 'EOF'
 ## 🖼️ Логотип
 
 **Кастомный логотип для fastfetch** находится в файле: `fastfetch_Kwéebecs/fastfetch/logo.png`
-
 ![Логотип проекта](fastfetch/logo.png)
 
-*Кастомный логотип для fastfetch*
+## fastfetch
 ![fastfetch](fastfetch_Kw-ebecs.png)
 ## ✨ Особенности
 
