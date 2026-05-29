@@ -3,7 +3,7 @@
 
   "logo": {
     "type": "chafa",
-    "source": "fastfetch/logo.png",
+    "source": "home/trianglenk/.config/fastfetch/logo.png",
     "width": 42,
     "padding": {
       "top": 0,
