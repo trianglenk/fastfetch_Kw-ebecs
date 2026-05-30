@@ -18,8 +18,7 @@
 ## 🖼️ Логотип
 
 **Кастомный логотип для fastfetch** находится в файле: `fastfetch_Kwéebecs/fastfetch/logo.png`
-![Логотип проекта](fastfetch/logo.png)
-
+<img src="fastfetch/logo.png" alt="Логотип проекта" width="50%">
 ## fastfetch
 ![fastfetch](fastfetch_Kw-ebecs.png)
 ## ✨ Особенности
