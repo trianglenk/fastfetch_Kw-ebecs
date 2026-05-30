@@ -34,9 +34,6 @@
 - 🔧 Лёгкая настройка под себя
 - 💻 Работает в **bash** и **zsh**
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
-
-
 **Автоматическая установка:**
 ```
 git clone https://github.com/trianglenk/fastfetch_Kw-ebecs.git
