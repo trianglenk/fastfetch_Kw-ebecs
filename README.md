@@ -1,6 +1,6 @@
-╔══════════════════════════════════════════════════════════════════╗
-║              Fastfetch Kwéebecs Customization                   ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║              Fastfetch Kwéebecs Customization                 ║
+╚═══════════════════════════════════════════════════════════════╝
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
