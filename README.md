@@ -1,46 +1,37 @@
-# 🚀 Fastfetch Kwéebecs Customization
+# Fastfetch Kwéebecs Customization
 
-![Fastfetch Preview](fastfetch_Kw-ebecs.png)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
+[![Fastfetch](https://img.shields.io/badge/Fastfetch-0055FF?style=for-the-badge&logo=fastfetch&logoColor=white)](https://github.com/fastfetch-cli/fastfetch)
 
-> **Кастомная конфигурация для [fastfetch](https://github.com/fastfetch-cli/fastfetch)** — современной альтернативы `neofetch`, написанной на C. Включает **персональный логотип**, оптимизированный конфиг и автоматическую установку.
+## 📖 Описание
 
----
+Это кастомная конфигурация для **fastfetch** — современной альтернативы neofetch, написанной на C.
 
+Данный проект включает:
+- Персональную настройку отображения системной информации
+- **Кастомный логотип для fastfetch** (`fastfetch/logo.png`)
+- Оптимизированный конфигурационный файл (`fastfetch/config.jsonc`)
+- Автоматический установщик для Linux
+
+## 🖼️ Логотип
+
+**Кастомный логотип для fastfetch** находится в файле: `fastfetch_Kwéebecs/fastfetch/logo.png`
+![Логотип проекта](fastfetch/logo.png)
+
+## fastfetch
+![fastfetch](fastfetch_Kw-ebecs.png)
 ## ✨ Особенности
 
-✅ **Быстрый вывод информации** о системе
-✅ **Кастомный логотип** (`fastfetch/logo.png`)
-✅ **Детальная информация**: OS, ядро, пакеты, оболочка, DE/WM, тема, иконки
-✅ **Поддержка цветовой схемы** терминала
-✅ **Лёгкая настройка** под себя
-✅ **Работает в Bash и Zsh**
-
----
-
-## 🖼️ Кастомный логотип
-
-Логотип проекта хранится в файле:
-**`fastfetch_Kwéebecs/fastfetch/logo.png`**
-
-![Логотип](fastfetch/logo.png)
-
----
+- 🚀 Быстрый вывод информации о системе
+- 🎨 **Кастомный логотип для fastfetch** из `fastfetch/logo.png`
+- 📊 Детальная информация: ОС, ядро, пакеты, оболочка, разрешение экрана, DE/WM, тема, иконки, терминал, CPU, GPU, память
+- 🎭 Поддержка цветовой схемы терминала
+- 🔧 Лёгкая настройка под себя
+- 💻 Работает в **bash** и **zsh**
 
 ## 📸 Пример вывода
 
-```plaintext
-╭────────────────────────────────────────────────────────────╮
-│                   🄿🅄🅁🅁🅁🅄🅁🅁🅄                          │
-│                                                           │
-╰────────────────────────────────────────────────────────────╯
-   user@host
-  ────────────────────────────────────────────────────────────
-  OS: Arch Linux x86_64
-  Kernel: 6.8.1-arch1-1
-  Uptime: 2 hours, 30 mins
-  Shell: zsh 5.9
-  CPU: AMD Ryzen 7 (16) @ 3.6GHz
-  GPU: NVIDIA RTX 3060
-  Memory: 4.2GiB / 15.5GiB
-  Disk: 256GB / 1TB
-  ────────────────────────────────────────────────────────────
+**Кастомный логотип для fastfetch** из `fastfetch/logo.png`:
+сделай по красивее и добавь рамки пиксельные
