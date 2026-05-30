@@ -23,7 +23,7 @@
 - Кастомный логотип для fastfetch** находится в файле: `fastfetch_Kwéebecs/fastfetch/logo.png`
 - Автоматический установщик для Linux
 
- fastfetch
+ ## fastfetch
 ![fastfetch](fastfetch_Kw-ebecs.png)
 ## ✨ Особенности
 
