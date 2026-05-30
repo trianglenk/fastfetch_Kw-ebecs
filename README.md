@@ -31,3 +31,11 @@
 - 🎭 Поддержка цветовой схемы терминала
 - 🔧 Лёгкая настройка под себя
 - 💻 Работает в **bash** и **zsh**
+
+
+**Автоматическая установка:**
+
+git clone https://github.com/trianglenk/fastfetch_Kw-ebecs.git
+cd fastfetch_Kw-ebecs
+chmod +x install.sh
+./install.sh
