@@ -2,8 +2,6 @@
 <div align="center">
   <img src="fastfetch/logo.png" alt="Логотип проекта" width="35%">
 </div>
-**Кастомный логотип для fastfetch** находится в файле: `fastfetch_Kwéebecs/fastfetch/logo.png`
-
 # Fastfetch Kwéebecs Customization
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -19,6 +17,7 @@
 - Персональную настройку отображения системной информации
 - **Кастомный логотип для fastfetch** (`fastfetch/logo.png`)
 - Оптимизированный конфигурационный файл (`fastfetch/config.jsonc`)
+- Кастомный логотип для fastfetch** находится в файле: `fastfetch_Kwéebecs/fastfetch/logo.png`
 - Автоматический установщик для Linux
 
  fastfetch
