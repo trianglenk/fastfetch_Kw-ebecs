@@ -5,10 +5,12 @@
 
 <h1 align="center">Fastfetch Kwéebecs Customization</h1>
 
+<div align="center">
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
 [![Fastfetch](https://img.shields.io/badge/Fastfetch-0055FF?style=for-the-badge&logo=fastfetch&logoColor=white)](https://github.com/fastfetch-cli/fastfetch)
+</div>
 
 ## 📖 Описание
 
