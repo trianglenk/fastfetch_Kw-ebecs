@@ -2,6 +2,7 @@
 <div align="center">
   <img src="fastfetch/logo.png" alt="Логотип проекта" width="35%">
 </div>
+
 # Fastfetch Kwéebecs Customization
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
