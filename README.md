@@ -35,16 +35,16 @@
 - 💻 Работает в **bash** и **zsh**
 
 ## Устоновка
-
-- Arch Linux / CachyOS
+```
+Arch Linux / CachyOS
 sudo pacman -S fastfetch
 
-- Debian/Ubuntu
+Debian/Ubuntu
 sudo apt install fastfetch
 
-- Fedora
+Fedora
 sudo dnf install fastfetch
- 
+ ```
 **Автоматическая установка:**
 ```
 git clone https://github.com/trianglenk/fastfetch_Kw-ebecs.git
