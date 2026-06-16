@@ -38,10 +38,12 @@
 ```
 Arch Linux / CachyOS
 sudo pacman -S fastfetch
-
+```
+```
 Debian/Ubuntu
 sudo apt install fastfetch
-
+```
+```
 Fedora
 sudo dnf install fastfetch
  ```
