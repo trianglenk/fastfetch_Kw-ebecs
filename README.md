@@ -36,7 +36,7 @@
 
 ## 💿 Устоновка
 
-Arch Linux / CachyOS
+Arch Linux
 ```
 sudo pacman -S fastfetch
 ```
