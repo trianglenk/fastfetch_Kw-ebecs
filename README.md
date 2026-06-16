@@ -34,6 +34,17 @@
 - 🔧 Лёгкая настройка под себя
 - 💻 Работает в **bash** и **zsh**
 
+## Устоновка
+
+- Arch Linux / CachyOS
+sudo pacman -S fastfetch
+
+- Debian/Ubuntu
+sudo apt install fastfetch
+
+- Fedora
+sudo dnf install fastfetch
+ 
 **Автоматическая установка:**
 ```
 git clone https://github.com/trianglenk/fastfetch_Kw-ebecs.git
