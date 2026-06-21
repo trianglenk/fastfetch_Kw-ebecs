@@ -50,6 +50,7 @@ sudo dnf install fastfetch
  ```
 **Автоматическая установка:**
 ```
+sudo pacman -S chafa
 git clone https://github.com/trianglenk/fastfetch_Kw-ebecs.git
 cd fastfetch_Kw-ebecs
 chmod +x install.sh
